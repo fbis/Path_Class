@@ -1,0 +1,1 @@
+PerlのPath::Classの移植
